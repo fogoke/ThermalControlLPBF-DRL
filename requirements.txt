@@ -6,3 +6,4 @@ numpy==1.19.2
 scipy==1.6.3
 stable_baselines3==0.7.0
 pandas==1.1.0
+scikit-image==0.19.3
